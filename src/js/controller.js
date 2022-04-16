@@ -130,7 +130,7 @@ async function controllAddRecipe(newRecipe) {
 }
 
 function newFeature() {
-  console.log('Welcome to the application!');
+  console.log('Welcome to the application!123');
 }
 
 function init() {
